@@ -1,2 +1,2 @@
-# atividade_AOS_2025.1
-Atividade 1 da matéria de aplicações orientada a serviços 
+# Aplicações Orientada a Serviços (2025.1)
+Sistemas para Internet (Universidade Católica de Pernambuco)
